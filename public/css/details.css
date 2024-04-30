@@ -1,0 +1,13 @@
+.details{
+    width: 40%;
+    margin: 7% auto;
+    text-align: center;
+}
+
+.details h1{
+    margin-bottom: 3rem !important;
+}
+
+.card{
+    margin: auto;
+}
