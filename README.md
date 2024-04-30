@@ -6,8 +6,8 @@ Pizza du Chef est un système de commande en ligne pour une pizzeria. Il permet 
 ## Fonctionnalités
 
 - **Affichage du Menu :** Affichez la liste des pizzas disponibles avec leurs images, noms et prix.
-- **Affichage des livreurs :** Affichez la liste des livreurs disponibles.
-- **Affichage des clients :** Affichez la liste des clients disponibles.
+- **Affichage des livreurs :** Affichez la liste des livreurs disponibles avec leurs informations.
+- **Affichage des clients :** Affichez la liste des clients disponibles avec leurs informations.
 
 ## Configuration
 
